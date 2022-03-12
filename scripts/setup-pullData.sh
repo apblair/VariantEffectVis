@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Download esm1b
 mkdir /data/VariantAnalysis/esm1b_params
